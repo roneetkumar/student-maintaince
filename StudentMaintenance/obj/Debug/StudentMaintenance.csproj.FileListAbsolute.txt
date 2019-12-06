@@ -1,0 +1,10 @@
+C:\StudentMaintenance\StudentMaintenance\bin\Debug\StudentMaintenance.exe.config
+C:\StudentMaintenance\StudentMaintenance\bin\Debug\StudentMaintenance.exe
+C:\StudentMaintenance\StudentMaintenance\bin\Debug\StudentMaintenance.pdb
+C:\StudentMaintenance\StudentMaintenance\obj\Debug\StudentMaintenance.csprojAssemblyReference.cache
+C:\StudentMaintenance\StudentMaintenance\obj\Debug\StudentMaintenance.GUI.Form1.resources
+C:\StudentMaintenance\StudentMaintenance\obj\Debug\StudentMaintenance.Properties.Resources.resources
+C:\StudentMaintenance\StudentMaintenance\obj\Debug\StudentMaintenance.csproj.GenerateResource.cache
+C:\StudentMaintenance\StudentMaintenance\obj\Debug\StudentMaintenance.csproj.CoreCompileInputs.cache
+C:\StudentMaintenance\StudentMaintenance\obj\Debug\StudentMaintenance.exe
+C:\StudentMaintenance\StudentMaintenance\obj\Debug\StudentMaintenance.pdb
